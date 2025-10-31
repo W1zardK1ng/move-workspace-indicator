@@ -1,7 +1,7 @@
 {
   "description": "Replace native Activities Indicator by Workspace Indicator. Nothing else.\n\n Obviously, you have to install and activate official Workspace Indicator extension.",
   "name": "Move Workspace Indicator",
-  "shell-version": ["46", "47", "48"],
+  "shell-version": ["46", "47", "48", "49"],
   "uuid": "move-workspace-indicator@fthx",
   "url": "https://github.com/fthx/move-workspace-indicator",
   "version": 999
